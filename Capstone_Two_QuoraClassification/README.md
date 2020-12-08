@@ -8,9 +8,6 @@
 │   ├── interim             <- Intermediate data that has been transformed.
 │   ├── processed           <- The final, canonical data sets for modeling.
 │   └── raw                 <- The original, immutable data dump.
-│
-├── docs                    <- A default Sphinx project; see sphinx-doc.org for details
-│   └── Problem Statement
 |
 ├── figures                 <- All EDA and model saved images
 |
@@ -29,9 +26,6 @@
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   ├── Capstone_Presentation.pptx                       <- Final presentation
 │   └── Final_Rep_Quora_Insincere_Classification.docx    <- Final report
-│
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
 │
 ├── setup.py           <- Make this project pip installable with `pip install -e`
 ├──  src                <- Source code for use in this project.
