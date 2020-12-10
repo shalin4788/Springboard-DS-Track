@@ -6,9 +6,9 @@ These are Capstone projects, case studies, projects and tutorials completed for 
 NumPy, Pandas, Matplotlib, seaborn, scikit-learn, PyTorch, Tweepy, Requests, json, BeautifulSoup, NLTK
 
 ## Capstone projects involved
-**Capstone project 1** - Applied Linear Regression and KMeans clustering models, built training data set and applied to test data set (i.e. the resort (in scope) in the dataframe looking to increase revenues to offset against the increased CAPEX it incurred this year) to determine the performance metrics like Pearson Coeffient and finally, predict the ticket pricing it should target.
+**Capstone 1** - Applied Linear Regression and KMeans clustering models, built training data set and applied to test data set (i.e. the resort (in scope) in the dataframe looking to increase revenues to offset against the increased CAPEX it incurred this year) to determine the performance metrics like Pearson Coeffient and finally, predict the ticket pricing it should target.
 
-**Capstone 2** - Quora Insensitive questions to facilitate constructive community and forum discussion, weeding out insincere, malinformed, fake and unhealthy content.
+**Capstone 2** - Quora Insensitive questions to facilitate constructive community and forum discussion, weeding out insincere, malinformed, fake and unhealthy content. Performed 1) Data Wrangling 2) EDA 3) Feature Engineering 4) Machine Learning Algorithm applications
 
 ## Projects involved
 **London housing project** - Used pandas librarires and methods to see the trend of housing market in London metropolitan areas.
