@@ -8,6 +8,8 @@
 │   ├── interim             <- Intermediate data that has been transformed.
 │   ├── processed           <- The final, canonical data sets for modeling.
 │   └── raw                 <- The original, immutable data dump.
+├── docs                    
+│   └── Problem Statement.docx   <- problem statment to give an overview of what we are trying to achieve
 |
 ├── figures                 <- All EDA and model saved images
 |
@@ -20,19 +22,19 @@
 │   ├── 3. Preprocessing and Training Data Development.ipynb
 │   └── 4. Quora Insincere Classification - Modeling Step.ipynb                                       
 │
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│   └── references.txt <- All project references - stackoverflow urls etc.
+├── references              <- Data dictionaries, manuals, and all other explanatory materials.
+│   └── references.txt      <- All project references - stackoverflow urls etc.
 │
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+├── reports                 <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   ├── Capstone_Presentation.pptx                       <- Final presentation
 │   └── Final_Rep_Quora_Insincere_Classification.docx    <- Final report
 │
-├── setup.py           <- Make this project pip installable with `pip install -e`
-├──  src                <- Source code for use in this project.
-|    └── data           <- Scripts to download or generate data
+├── setup.py                <- Make this project pip installable with `pip install -e`
+├──  src                    <- Source code for use in this project.
+|    └── data               <- Scripts to download or generate data
 |       └── make_dataset.py
 │
-└── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+└── tox.ini                 <- tox file with settings for running tox; see tox.testrun.org
 ```
 
 # Description
