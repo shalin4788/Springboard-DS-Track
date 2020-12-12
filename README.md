@@ -3,7 +3,7 @@ These are Capstone projects, case studies, projects and tutorials completed for 
 # Springboard repo
 
 ## Libraries 
-NumPy, Pandas, Matplotlib, seaborn, scikit-learn, PyTorch, Tweepy, Requests, json, BeautifulSoup, NLTK
+NumPy, Pandas, Matplotlib, seaborn, scikit-learn, statsmodel, scipy, PyTorch, Tweepy, Requests, json, BeautifulSoup, NLTK
 
 ## Capstone projects involved
 **Capstone 1** - Applied Linear Regression and KMeans clustering models, built training data set and applied to test data set (i.e. the resort (in scope) in the dataframe looking to increase revenues to offset against the increased CAPEX it incurred this year) to determine the performance metrics like Pearson Coeffient and finally, predict the ticket pricing it should target.
