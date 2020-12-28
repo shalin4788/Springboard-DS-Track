@@ -30,7 +30,6 @@ Big Mountain Resort, who has recently installed an additional chair lift to incr
 Using Linear Regression and performance metrics to identify the best possibility model in order to: 
 
 a) Improve Explained variance 
-
 b) Reduce Mean Absolute Error
 
 Using KMeans Clustering and scatter plots to convey findings of co-relation coefficients and model performance metrics
